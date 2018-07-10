@@ -1,0 +1,6 @@
+{
+    "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+    "line_numbers": true, //显然这个是显示行号的。
+    "draw_centered": false,
+    "wrap_width": 120,
+}

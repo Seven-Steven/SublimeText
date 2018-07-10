@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ConvertToUTF8",
+		"CSS Comments",
+		"DocBlockr",
+		"Emmet",
+		"HTML5",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Package Control",
+		"PlainTasks",
+		"SideBarEnhancements",
+		"Sync Settings",
+		"Terminal"
+	]
+}

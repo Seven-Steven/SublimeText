@@ -1,0 +1,7 @@
+{
+  "draw_indent_guaides": true,
+  "show_remain_due": true,
+  "font_face": "Microsoft YaHei",
+  "color_scheme": "Packages/PlainTasks/tasks-monokai.hidden-tmTheme"
+  // "color_scheme": "Packages/PlainTasks/tasks-eighties-colored.hidden-tmTheme"
+}
